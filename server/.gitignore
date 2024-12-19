@@ -1,0 +1,4 @@
+/node_modules
+/flask-app/venv
+.env
+package-lock.json
